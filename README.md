@@ -1,2 +1,2 @@
-# indexed-search-engine-tfidf
-A simple search engine using TF.IDF algorithm
+# Simple Search Engine
+Descriptions will be added later.
